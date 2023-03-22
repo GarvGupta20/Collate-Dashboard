@@ -9,7 +9,7 @@ function SubjectSelect()
           
         <form className="md:w-1/3 w-full flex flex-row flex-nowrap justigy-start gap-x-4" action="">
 
-        <label className="md:text-2xl text-lg font-bolder text-black subpixel-antialiased"  for="subject-select">
+        <label className="md:text-2xl text-1xl font-bolder text-black subpixel-antialiased"  for="subject-select">
 
           Enter Subject  
             
