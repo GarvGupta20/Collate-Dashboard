@@ -19,4 +19,6 @@ Contains 5 sections
 
 5. Footer
 
+Deployed at : https://garvgupta20.github.io/Collate-Dashboard/
+
 
